@@ -1,0 +1,1 @@
+https://s3.amazonaws.com/tripdata/201705-citibike-tripdata.csv.zip
