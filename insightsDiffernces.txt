@@ -4,5 +4,6 @@ Insigths
 -- Las estaciones con mas arrivals Broadway & E 22 St, Pershing Square North, W 21 St & 6 Ave
 -- pershing square north estacion con mas departures
 -- es bastante regular taza departures , arrivals
--- Excepciones Grand Army Plaza & Central Park S 7590	9287	- 1697, Columbus Ave & W 72 Stc 3690	4631	-941
+-- Excepciones Grand Army Plaza & Central Park S 7590 (44%)	9287 (56%)	- 1697, Columbus Ave & W 72 Stc 3690 (44%)	4631 (56%)	-941
+
 
