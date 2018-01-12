@@ -1,0 +1,8 @@
+Insigths 
+-- Las estaciones de broadway son aquellas de donde mas hay arrivals pero pocos departures
+-- Broadway & E 22 St and Broadway & Battery Pl
+-- Las estaciones con mas arrivals Broadway & E 22 St, Pershing Square North, W 21 St & 6 Ave
+-- pershing square north estacion con mas departures
+-- es bastante regular taza departures , arrivals
+-- Excepciones Grand Army Plaza & Central Park S 7590	9287	- 1697, Columbus Ave & W 72 Stc 3690	4631	-941
+
